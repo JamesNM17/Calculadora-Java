@@ -31,11 +31,13 @@ O foco principal é aplicar **boas práticas de programação**, organização d
 
 ## 🧱 Estrutura do Projeto
 
+```
 Calculadora-Java/
-├── Main.java               # Classe principal (ponto de entrada)
-├── CalculadoraView.java    # Interface gráfica (Swing)
-├── CalculadoraModel.java   # Lógica dos cálculos
-├── README.md
+├── Main.java                # Classe principal (ponto de entrada)
+├── CalculadoraView.java     # Interface gráfica (Swing)
+├── CalculadoraModel.java    # Lógica dos cálculos
+└── README.md
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
