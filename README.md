@@ -29,18 +29,6 @@ O foco principal é aplicar **boas práticas de programação**, organização d
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🧱 Estrutura do Projeto
-
-```
-Calculadora-Java/
-├── Main.java                # Classe principal (ponto de entrada)
-├── CalculadoraView.java     # Interface gráfica (Swing)
-├── CalculadoraModel.java    # Lógica dos cálculos
-└── README.md
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## 📌 Responsabilidade de cada classe
 
 - Main.java:               inicializa a aplicação
@@ -55,3 +43,14 @@ Calculadora-Java/
 - Swing                     (Biblioteca gráfica)
 - VS Code                   (Como IDE)
 - Extension Pack for Java   (Extensão) 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🧱 Estrutura do Projeto
+
+```
+Calculadora-Java/
+├── Main.java                # Classe principal (ponto de entrada)
+├── CalculadoraView.java     # Interface gráfica (Swing)
+├── CalculadoraModel.java    # Lógica dos cálculos
+└── README.md
